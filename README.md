@@ -8,19 +8,26 @@ Con 13 años de experiencia liderando soluciones en soporte, redes e infraestruc
 
 ### 🛠️ Tecnologías y Expertise
 
-*   **Backend & Software:** Python (Django, FastAPI), JavaScript/Node.js.
-*   **VoIP & Telecom:** Arquitecto de soluciones Asterisk (PBX, AMI, PJSIP, WebRTC).
-*   **Infraestructura & DevOps:** Administración avanzada de sistemas Linux (Debian/Ubuntu), Docker, Docker-compose, Nginx.
-*   **Bases de Datos:** SQL Server, PostgreSQL, MySQL/MariaDB.
-*   **Redes y Soporte:** 13 años de trayectoria resolviendo desafíos críticos en redes, conectividad y soporte técnico de nivel corporativo.
+## 🛠️ Tecnologías y Áreas de Expertise
+
+- **Desarrollo de Software:** Python, Django, FastAPI, C#, .NET 8, JavaScript, TypeScript, Node.js y desarrollo de APIs REST.
+- **Arquitectura de Software y Soluciones:** Diseño de soluciones escalables, integración de sistemas, modernización de aplicaciones y definición de arquitecturas tecnológicas.
+- **Asterisk y PBX:** Administración, configuración e integración de plataformas Asterisk, AMI, PJSIP y WebRTC.
+- **Infraestructura y DevOps:** Administración de servidores Linux (Debian/Ubuntu), Docker, Docker Compose, Nginx y despliegue de aplicaciones.
+- **Bases de Datos:** SQL Server, PostgreSQL, MySQL y MariaDB; diseño, administración y optimización de bases de datos.
+- **Redes e Infraestructura TI:** 13 años de experiencia en administración de redes, conectividad, servidores y resolución de incidentes críticos en entornos corporativos.
+- **Liderazgo y Gestión de Soluciones:** Análisis de requerimientos, definición de soluciones técnicas, priorización de funcionalidades y alineación del desarrollo con los objetivos del negocio.
 
 ---
 
-### 🚀 Proyectos Destacados
+*  # 🚀 Proyectos Destacados
 
-*   **GranCRM:** Desarrollo y gestión de CRM empresarial en entorno containerizado, optimizado para flujos de trabajo de alto volumen.
-*   **Incitrack:** Plataforma de gestión de incidencias en producción, diseñada para el seguimiento y resolución eficiente de tickets.
-*   **Proyecto Asterisc@:** Solución avanzada de Call Center basada en Asterisk 20, integrando telefonía IP con lógica de negocio a través de FastAPI.
+- **GranCRM:** Desarrollo y gestión de CRM empresarial en un entorno containerizado, orientado a optimizar procesos y flujos de trabajo de alto volumen.
+- **InciTrack:** Plataforma de gestión de incidencias que centraliza el registro, seguimiento y resolución de tickets, mejorando la trazabilidad y la gestión del soporte TI.
+- **Sistema de Agendamiento:** Desarrollo de una solución para la gestión y automatización de agendas, orientada a optimizar la asignación de horas, organizar flujos de trabajo y mejorar el control de las operaciones.
+- **Proyecto Asterisc@: **Solución de Call Center basada en Asterisk 20, integrando telefonía IP con lógica de negocio mediante FastAPI.
+
+
 
 ---
 
